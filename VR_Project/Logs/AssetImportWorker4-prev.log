@@ -1,0 +1,247 @@
+Using pre-set license
+Built from '2021.3/evg/staging/82bb020e-b03b1330/draft-0' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/Game Bright/GitKraken Project/VR_Project/VR_Project
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+52690
+Successfully changed project path to: D:/Game Bright/GitKraken Project/VR_Project/VR_Project
+D:/Game Bright/GitKraken Project/VR_Project/VR_Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15384] Host "[IP] 192.168.1.37 [Port] 0 [Flags] 2 [Guid] 1999119792 [EditorId] 1999119792 [Version] 1048832 [Id] WindowsEditor(7,BrightNess) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15384] Host "[IP] 192.168.1.37 [Port] 0 [Flags] 2 [Guid] 1999119792 [EditorId] 1999119792 [Version] 1048832 [Id] WindowsEditor(7,BrightNess) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 81.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Game Bright/GitKraken Project/VR_Project/VR_Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56112
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010226 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.669 seconds
+Domain Reload Profiling:
+	ReloadAssembly (669ms)
+		BeginReloadAssembly (82ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (462ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (108ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (273ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (84ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004938 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Game Bright\GitKraken Project\VR_Project\VR_Project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Game Bright\GitKraken Project\VR_Project\VR_Project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1075ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (836ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (277ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (395ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (258ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (113.9 KB). Loaded Objects now: 3852.
+Memory consumption went from 133.1 MB to 133.0 MB.
+Total: 2.886300 ms (FindLiveObjects: 0.260000 ms CreateObjectMapping: 0.195500 ms MarkObjects: 2.320400 ms  DeleteObjects: 0.109000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13422.252597 seconds.
+  path: Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials/Stylize Terrain Diffuse.mat
+  artifactKey: Guid(c7d0747bd7053804da8250ca0ea203d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials/Stylize Terrain Diffuse.mat using Guid(c7d0747bd7053804da8250ca0ea203d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad044a390bf50436ea49206b74bb51d') in 0.273892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials/Stylize_Grass.mat
+  artifactKey: Guid(5d8af8f434f69794eabd684fb44b4fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials/Stylize_Grass.mat using Guid(5d8af8f434f69794eabd684fb44b4fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427501942c01cdc3da0ba5167b367bca') in 0.309220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 425.830474 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(39d0b8b1c8e1e484b928ae23ffe3d123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer.terrainlayer using Guid(39d0b8b1c8e1e484b928ae23ffe3d123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a613ece11519e98143c846ae5e47f75c') in 0.030811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 169.467909 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Layers/DemoCliff.terrainlayer
+  artifactKey: Guid(e0d9469a58c161248b9ac0a71f7750ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Layers/DemoCliff.terrainlayer using Guid(e0d9469a58c161248b9ac0a71f7750ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c6f38d3b33ab96882cfb8452d138c9') in 0.043064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.646939 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Layers/DemoDirt.terrainlayer
+  artifactKey: Guid(82aea1bf4675be54487e9d7583efd53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Layers/DemoDirt.terrainlayer using Guid(82aea1bf4675be54487e9d7583efd53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad7a06bb862bd0fc586b969aaddfe12') in 0.026814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 499.360742 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/sand-texture-seamless-background-in-cartoon-style-vector-44679756.jpg
+  artifactKey: Guid(eb6c622a8c28aa54fa603c96785cdd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/sand-texture-seamless-background-in-cartoon-style-vector-44679756.jpg using Guid(eb6c622a8c28aa54fa603c96785cdd4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855462afe8907e4434b5a0973d722a7f') in 0.066215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3805.989157 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer 1.terrainlayer
+  artifactKey: Guid(56828d879996e8142b08a8d63b401461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer 1.terrainlayer using Guid(56828d879996e8142b08a8d63b401461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f0054cad4921a2b3acc31a723d61c4') in 0.030752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 400.974571 seconds.
+  path: Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer 2.terrainlayer
+  artifactKey: Guid(7319f9d55863f844d953ded5e595f43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/VegetationSpawner/_Demo/Terrain/Textures/NewLayer 2.terrainlayer using Guid(7319f9d55863f844d953ded5e595f43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b736ff1ee83d33bd7cda3f593877c9a') in 0.024003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 104.678942 seconds.
+  path: Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials
+  artifactKey: Guid(855350d72edd5b546aba24877b32789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Materials using Guid(855350d72edd5b546aba24877b32789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016e19b09b3027c75407df528b03f1a3') in 0.008956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.364386 seconds.
+  path: Assets/Import Asset/Import Texture/LowlyPoly
+  artifactKey: Guid(551e561d94b5a5743b7700f1bc095f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/Import Texture/LowlyPoly using Guid(551e561d94b5a5743b7700f1bc095f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4f6c99dfc74330b39a738c2efc70d5') in 0.008914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.423435 seconds.
+  path: Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Scene
+  artifactKey: Guid(35c51be547b1b5149808eae4a6922fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/Import Texture/LowlyPoly/Stylized Grass Texture/Scene using Guid(35c51be547b1b5149808eae4a6922fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bccacf874b88a31c4f1a805f2f8f04') in 0.020277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.114205 seconds.
+  path: Assets/Import Asset/SimpleNaturePack/Prefabs
+  artifactKey: Guid(245080b10b3a2d542a041d0b8f4fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/SimpleNaturePack/Prefabs using Guid(245080b10b3a2d542a041d0b8f4fe0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a42777bd4a35cf740560b4712c96d8') in 0.008852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.080799 seconds.
+  path: Assets/Import Asset/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  artifactKey: Guid(886ecf0ee44718246aa083d8aad49b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import Asset/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat using Guid(886ecf0ee44718246aa083d8aad49b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc5550ec73e67b786be269a59d97aaa') in 0.141897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.381535 seconds.
+  path: Assets/My Terrain/Main.asset
+  artifactKey: Guid(d5cb7a04a7508c0408837fad3830f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Terrain/Main.asset using Guid(d5cb7a04a7508c0408837fad3830f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6e19bb396ceb2b8ffbdd7230fbd3f4') in 0.047206 seconds 

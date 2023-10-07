@@ -42,8 +42,19 @@
   </PropertyGroup>
   <ItemGroup>
      <Folder Include="Assets" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Materials" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Models" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Terrain\Layers" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Prefabs" />
+     <None Include="Assets\Import Asset\VegetationSpawner\package.json" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo" />
+     <Folder Include="Assets\Import Asset" />
      <Folder Include="Assets\Terrain" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Terrain\Textures" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Materials\Textures" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner\_Demo\Terrain" />
      <Folder Include="Assets\Scenes" />
+     <Folder Include="Assets\Import Asset\VegetationSpawner" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
